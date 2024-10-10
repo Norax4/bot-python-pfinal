@@ -1,0 +1,5 @@
+discord.py
+keras==2.12.0
+numpy==1.23.5
+tensorflow==2.12.0
+pillow==10.4.0
