@@ -1,0 +1,14 @@
+0 Banana
+1 Cherry
+2 Apricot
+3 Fig
+4 Kiwi
+5 Lime
+6 Lemon
+7 Mango
+8 Apple
+9 Passion Fruit
+10 Orange
+11 Avocado
+12 Pear
+13 Grapefruit

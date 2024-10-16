@@ -1,0 +1,16 @@
+0 Eggplant
+1 Broccoli
+2 Onion
+3 Cauliflower
+4 Spinach
+5 Peas
+6 Lettuce
+7 Chili Pepper
+8 Turnip
+9 Potato
+10 Cucumber
+11 Beet
+12 Cabbage
+13 Tomato
+14 Carrot
+15 Pumpkin
